@@ -10,7 +10,7 @@ The Restaurant Owner Database is a database of licensed restaurant owners in New
 
 ## Researchers (Summer & Fall 2020)
 
-- Sarah Tahir
+- Sarah Tahir, Adjunct Research Associate
 - Yi-Chen (Cinny) Lin
 - Yinqi Wang
 - Yujie (Tracey) Lan
