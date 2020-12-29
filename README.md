@@ -6,7 +6,7 @@ NOTE: THIS IS A WORKING DOCUMENT
 ## The Restaurant Owner Database
 **A Quantitative Study of Immigration, Identity, and Restaurant Ownership in Nineteenth and Twentieth Century New York**
 
-The Restaurant Owner Database is a database of licensed restaurant owners in New York City from 1870 to 1933 built from business licensure and census records compiled and cleaned by the Humanities Research Lab. The purpose of this GitHub repository is to introduce data processing and historical research conducted with the Restaurant Owner Database by the restaurant owner research group at the Humanities Research Lab. This is an ongoing project so this repository will be continuosly updated to reflect our changing work.
+The Restaurant Owner Database is a database of licensed restaurant owners in New York City from 1870 to 1933 built from business licensure and census records compiled and cleaned by the Humanities Research Lab. The purpose of this GitHub repository is to introduce data processing and historical research conducted with the Restaurant Owner Database by researchers at the Humanities Research Lab. This is an ongoing project so this repository will be continuosly updated to reflect our changing work.
 
 ## Researchers (Summer & Fall 2020)
 
