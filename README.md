@@ -1,5 +1,5 @@
 
-This project is the product of interdiscplinary research conducted at NYU Shanghai's [Humanities Research Lab](https://www.historybeyond.com/). The Humanities Research Lab brings together undergraduate researchers in data science, interactive media, history, and more to explore how emerging mediums can transform the way we research, experience, and learn history. These students produce collaborative digital humanities research supervised by [Professor Heather Ruth Lee](https://www.heatherruthlee.com/).
+This project is the product of interdiscplinary research conducted at NYU Shanghai's [Humanities Research Lab](https://www.historybeyond.com/). The Humanities Research Lab brings together undergraduate researchers in data science, interactive media, history, and more to explore how emerging mediums transform the way we research, experience, and learn history. These students produce collaborative digital humanities research supervised by [Professor Heather Ruth Lee](https://www.heatherruthlee.com/).
 
 NOTE: THIS IS A WORKING DOCUMENT
 
